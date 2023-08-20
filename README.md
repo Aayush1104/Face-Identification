@@ -27,6 +27,7 @@ This project demonstrates the implementation of facial recognition using Siamese
    - Press 'a' to collect anchor images.
    - Press 'p' to collect positive (verified) images.
    - Press 'q' to exit the image collection.
+   - Populate the negative images path with a dataset of celebrity pictures: http://vis-www.cs.umass.edu/lfw/
 
 2. **Train the Model:**
    - Run the training script to train the Siamese Neural Network.
